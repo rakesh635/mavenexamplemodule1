@@ -1,6 +1,6 @@
 package com.schoology.app;
 
-import com.schoology.app.output.Output;
+import com.schoology.app.output.Output1;
 
 /**
  * Created by SleepWalker on 06.06.2016.
